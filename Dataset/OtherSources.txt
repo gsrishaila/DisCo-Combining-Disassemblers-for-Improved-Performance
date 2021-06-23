@@ -1,0 +1,81 @@
+Online git hub repo :   https://github.com/threatland/TL-BOTS
+Zip folder from repo is found in TL-BOTS-master.zip
+
+We obtained the source codes of the following malware from the above mentioned repository:
+********************************************************************************************
+Malware used for Training:
+
+Akiru
+myApollo-v1            
+Ares         
+B            
+Bashlite
+ChikaraMiraiSource
+Darkrai  
+Eros2.0      
+Extendo        
+gemini
+Horizon
+joshov3              
+Kanashiv3   
+kowaimirAivariant
+Kuria.d321c6
+L33Tv4
+lightaidra           
+mainkwari    
+mirai          
+Oasis
+Onryo 
+osirismiraisource   
+riftbot2    
+RootSenpaiMirai
+Saikin
+
+*********************************************************************************************
+Malware used Testing:
+
+All malware source codes found in PartOfTestingData
+
+1stclient.f56861
+alright.668c15 
+AngelsRep.115acf
+anti.1b9dd4      
+baby.ffe352
+backupcli.00572c
+bigbear.5c3f3a  
+Capone_Client.08798f
+Cbot         
+Cclient
+Cheatsedited.d59165
+Cherry.68e274
+cherrys.623db2  
+Chippy1337.f1fbfc
+client.e8942f
+client3.203250
+client4.591de8    
+client_.a1f733  
+client_2.e3ca87
+client_4.3bd9c7
+client_6.0b1b2f
+client_7.ee5100
+client_9.873478
+cliente.dd52cc
+irc_dos_bot.3e9e49
+L7_client.a948af
+LinuxWare_Client.f30608
+parabot.484893
+privatebot.4a1f9f
+Razor.001df0
+
+miraiSythe
+miraiTokyo
+miraiunknown
+TimeoutSec-L7-V1
+myTsunami v3
+Vaporwave
+XovaTest
+YakuzaMirai
+
+********************************************************************************************
+
+
